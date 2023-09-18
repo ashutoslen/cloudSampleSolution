@@ -1,0 +1,17 @@
+customProperties:"formComponent:false,\
+useCssPosition:true",
+encapsulation:108,
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"1D8B9A1F-461D-41B6-B160-A4B2A65C4C01"
+}
+],
+name:"baseTableDashboard",
+navigatorID:"-1",
+showInMenu:true,
+size:"550,480",
+typeid:3,
+uuid:"49D20A3B-EB92-4F24-B7C8-74D137D054D6"

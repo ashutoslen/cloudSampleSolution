@@ -1,0 +1,17 @@
+customProperties:"formComponent:false,\
+useCssPosition:true",
+dataSource:"db:/example_data/customers",
+encapsulation:108,
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"F3217BAF-E037-4B25-85B0-1E10BB864FE2"
+}
+],
+name:"customerView",
+navigatorID:"-1",
+showInMenu:true,
+typeid:3,
+uuid:"1ACCF491-4E49-4218-B72C-26E63964671B"

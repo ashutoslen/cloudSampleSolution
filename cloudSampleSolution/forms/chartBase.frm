@@ -1,0 +1,37 @@
+customProperties:"formComponent:false,\
+useCssPosition:true",
+encapsulation:108,
+items:[
+{
+cssPosition:"6,-1,-1,9,80,30",
+json:{
+cssPosition:{
+bottom:"-1",
+height:"30",
+left:"9",
+right:"-1",
+top:"6",
+width:"80"
+},
+styleClass:"default-align text-foreground",
+text:""
+},
+name:"image",
+styleClass:"default-align text-foreground",
+typeName:"bootstrapcomponents-label",
+typeid:47,
+uuid:"6F4E4B57-451A-4C43-842B-7A02F5041EFC"
+},
+{
+height:250,
+partType:5,
+typeid:19,
+uuid:"9F245B57-587B-4D19-B92E-16D773B272BB"
+}
+],
+name:"chartBase",
+navigatorID:"-1",
+showInMenu:true,
+size:"200,250",
+typeid:3,
+uuid:"34B5775A-4A17-4FE6-B572-29D7C4A5F6C7"
